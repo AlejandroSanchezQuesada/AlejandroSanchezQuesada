@@ -2,7 +2,7 @@
 
   <p align="center">La satisfacción radica en el esfuerzo, no en el logro. El esfuerzo total es una victoria completa
             (Mahatma Gandhi) 👨‍💻🖤</p>
-  <p align="center">Actualmente en busqueda activa de empleo 🤝</p>
+  <p align="center">Desarrollador Web en GrupoVelaBeach 🤝</p>
 
 
  <hr />
