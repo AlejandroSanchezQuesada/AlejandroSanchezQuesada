@@ -4,11 +4,11 @@
 
 - 🔭 Trabajando Actualmente en **Varios proyectos**
 
-- 🌱 Aprendiendo actualmente **Ionic**
+- 🌱 Aprendiendo actualmente **React y NodeJS**
 
 - 👨‍💻 Todos mis proyectos personales en [https://github.com/AlejandroSanchezQuesada](https://github.com/AlejandroSanchezQuesada)
 
-- 💬 Puedes preguntarme por **Django, Laravel**
+- 💬 Puedes preguntarme por **Django, Flask, Laravel**
 
 - 📫 Contacto **sanchezquesadaalejandro@gmail.com o soporte@grupovelabeach.com**
 
