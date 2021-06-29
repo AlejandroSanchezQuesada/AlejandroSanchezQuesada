@@ -4,7 +4,7 @@
 
 - 🔭 Trabajando Actualmente en **Varios proyectos**
 
-- 🌱 Aprendiendo actualmente **Java a fondo junto a Spring, y principios SOLID**
+- 🌱 Aprendiendo actualmente **Java a fondo junto a Spring y principios SOLID**
 
 - 👨‍💻 Todos mis proyectos personales en [https://github.com/AlejandroSanchezQuesada](https://github.com/AlejandroSanchezQuesada)
 
