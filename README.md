@@ -4,13 +4,13 @@
 
 - 🔭 Trabajando Actualmente en **Varios proyectos**
 
-- 🌱 Aprendiendo actualmente **CSS a fondo, Principios SOLID, Spring**
+- 🌱 Aprendiendo actualmente **CSS a fondo, Principios SOLID**
 
 - 👨‍💻 Todos mis proyectos personales en [https://github.com/AlejandroSanchezQuesada](https://github.com/AlejandroSanchezQuesada)
 
-- 💬 Puedes preguntarme por **Django, Flask, React, Angular**
+- 💬 Puedes preguntarme por **Laravel, Flask, React, Angular**
 
-- 📫 Contacto **sanchezquesadaalejandro@gmail.com o soporte@grupovelabeach.com**
+- 📫 Contacto **sanchezquesadaalejandro@gmail.com (personal) o soporte@grupovelabeach.com (profesional)**
 
 - 📄 LinkedIn [https://www.linkedin.com/in/alejandro-s%C3%A1nchez-quesada-10480b195/](https://www.linkedin.com/in/alejandro-s%C3%A1nchez-quesada-10480b195/)
 
