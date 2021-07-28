@@ -1,12 +1,12 @@
 <img src="https://i.imgur.com/QYqlnJ9.jpg" alt="banner-alejandro">
-<h1 align="center">Hey! soy Alejandro Sánchez Quesada</h1>
+<h1 align="center">Hola! ☕</h1>
 <h3 align="center">Desarrollador Web</h3>
 
 - 🔭 Trabajando Actualmente en **Varios proyectos**
 
-- 🌱 Aprendiendo actualmente **CSS a fondo, Principios SOLID**
+- 🌱 Aprendiendo actualmente **Principios SOLID**
 
-- 👨‍💻 Todos mis proyectos personales en [https://github.com/AlejandroSanchezQuesada](https://github.com/AlejandroSanchezQuesada)
+- 👨‍💻 Todos mis proyectos personales públicos en [https://github.com/AlejandroSanchezQuesada](https://github.com/AlejandroSanchezQuesada)
 
 - 💬 Puedes preguntarme por **Laravel, Flask, React, Angular**
 
