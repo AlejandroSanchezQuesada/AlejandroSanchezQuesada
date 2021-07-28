@@ -1,5 +1,5 @@
 <img src="https://i.imgur.com/QYqlnJ9.jpg" alt="banner-alejandro">
-<h1 align="center">Hola! ☕</h1>
+<h1 align="center">Hola 👋</h1>
 <h3 align="center">Desarrollador Web</h3>
 
 - 🔭 Trabajando Actualmente en **Varios proyectos**
