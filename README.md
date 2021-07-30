@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/QYqlnJ9.jpg" alt="banner-alejandro">
+<img align="right" src="https://i.imgur.com/jhvNayz.gif" alt="banner-alejandro">
 <h1 align="center">Hola 👋</h1>
 <h3 align="center">Desarrollador Web</h3>
 
