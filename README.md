@@ -4,7 +4,7 @@
 
 - 🔭 Trabajando Actualmente en **Varios proyectos**
 
-- 🌱 Aprendiendo actualmente **Principios SOLID**
+- 🌱 Aprendiendo actualmente **Principios SOLID, C# y .NET**
 
 - 👨‍💻 Todos mis proyectos personales públicos en [https://github.com/AlejandroSanchezQuesada](https://github.com/AlejandroSanchezQuesada)
 
