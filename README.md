@@ -4,7 +4,9 @@
 
 - 🔭 Trabajando Actualmente en **Varios proyectos**
 
-- 🌱 Aprendiendo actualmente **Principios SOLID, NextJS**
+- 💡 Interés en tecnologías **Java**
+
+- 🌱 Aprendiendo actualmente **Principios SOLID, Spring a fondo**
 
 - 👨‍💻 Todos mis proyectos personales públicos en [https://github.com/AlejandroSanchezQuesada](https://github.com/AlejandroSanchezQuesada)
 
