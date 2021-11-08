@@ -2,17 +2,17 @@
 <h1 align="center">Hola 👋</h1>
 <h3 align="center">Desarrollador Web</h3>
 
-- 🔭 Trabajando Actualmente en **Varios proyectos**
+- 🔭 Trabajando Actualmente en **Indra/Minsait**
 
 - 💡 Interés en tecnologías **Java**
 
-- 🌱 Aprendiendo actualmente **Principios SOLID, Spring a fondo**
+- 🌱 Aprendiendo actualmente **Java, Spring y Patrones de Diseño**
 
 - 👨‍💻 Todos mis proyectos personales públicos en [https://github.com/AlejandroSanchezQuesada](https://github.com/AlejandroSanchezQuesada)
 
 - 💬 Puedes preguntarme por **Laravel, Flask, React, Angular**
 
-- 📫 Contacto **sanchezquesadaalejandro@gmail.com (personal) o soporte@grupovelabeach.com (profesional)**
+- 📫 Contacto **sanchezquesadaalejandro@gmail.com**
 
 - 📄 LinkedIn [https://www.linkedin.com/in/alejandro-s%C3%A1nchez-quesada-10480b195/](https://www.linkedin.com/in/alejandro-s%C3%A1nchez-quesada-10480b195/)
 
