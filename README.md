@@ -6,11 +6,9 @@
 
 - 💡 Interés en tecnologías **Java**
 
-- 🌱 Aprendiendo actualmente **Java, Spring y Patrones de Diseño**
-
 - 👨‍💻 Todos mis proyectos personales públicos en [https://github.com/AlejandroSanchezQuesada](https://github.com/AlejandroSanchezQuesada)
 
-- 💬 Puedes preguntarme por **Laravel, Flask, React, Angular**
+- 💬 Puedes preguntarme por **Java, Spring, Laravel, Flask, React, Angular, Wordpress**
 
 - 📫 Contacto **sanchezquesadaalejandro@gmail.com**
 
