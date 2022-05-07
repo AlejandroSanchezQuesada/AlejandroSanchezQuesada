@@ -8,7 +8,7 @@
 
 - 👨‍💻 Todos mis proyectos personales públicos en [https://github.com/AlejandroSanchezQuesada](https://github.com/AlejandroSanchezQuesada)
 
-- 💬 Puedes preguntarme por **Java, Spring, Laravel, Flask, React, Angular, Wordpress**
+- 💬 Puedes preguntarme por **Java, Spring, React, Wordpress**
 
 - 📫 Contacto **sanchezquesadaalejandro@gmail.com**
 
