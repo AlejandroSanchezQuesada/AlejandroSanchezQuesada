@@ -4,7 +4,7 @@
 
 - 🔭 Trabajando Actualmente en **Indra/Minsait**
 
-- 💡 Interés en tecnologías **Java**
+- 💡 Interés en tecnologías **Java** y **Javascript**
 
 - 👨‍💻 Todos mis proyectos personales públicos en [https://github.com/AlejandroSanchezQuesada](https://github.com/AlejandroSanchezQuesada)
 
