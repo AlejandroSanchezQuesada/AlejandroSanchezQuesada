@@ -6,6 +6,8 @@
 
 - 💡 Interés en tecnologías **Java** y **Javascript**
 
+- 📚 Estudiando ahora **Flutter** y **AWS**
+
 - 👨‍💻 Todos mis proyectos personales públicos en [https://github.com/AlejandroSanchezQuesada](https://github.com/AlejandroSanchezQuesada)
 
 - 💬 Puedes preguntarme por **Java, Spring, React, Wordpress**
