@@ -4,9 +4,9 @@
 
 - 🔭 Trabajando Actualmente en **Indra/Minsait**
 
-- 💡 Interés en tecnologías **Java** y **Javascript**
+- 💡 Interés en tecnologías **Java**, **Backend** y **Cloud**
 
-- 📚 Estudiando ahora **Flutter** y **AWS**
+- 📚 Estudiando ahora **[Java y Springboot siguiendo y completando todos los objetivos del roadmap](https://roadmap.sh/backend)** y **AWS**
 
 - 👨‍💻 Todos mis proyectos personales públicos en [https://github.com/AlejandroSanchezQuesada](https://github.com/AlejandroSanchezQuesada)
 
